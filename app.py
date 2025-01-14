@@ -1,5 +1,5 @@
 # Install necessary packages
-pip install streamlit selenium beautifulsoup4
+!pip install streamlit selenium beautifulsoup4
 
 import streamlit as st
 from selenium import webdriver
